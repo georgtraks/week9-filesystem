@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\filesystem\filesystem\obj\Debug\netcoreapp3.1\filesystem.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\filesystem\filesystem\obj\Debug\netcoreapp3.1\filesystem.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\filesystem\filesystem\obj\Debug\netcoreapp3.1\filesystem.AssemblyInfo.cs
+C:\Users\opilane\source\repos\filesystem\filesystem\obj\Debug\netcoreapp3.1\filesystem.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\filesystem\filesystem\bin\Debug\netcoreapp3.1\filesystem.exe
+C:\Users\opilane\source\repos\filesystem\filesystem\bin\Debug\netcoreapp3.1\filesystem.deps.json
+C:\Users\opilane\source\repos\filesystem\filesystem\bin\Debug\netcoreapp3.1\filesystem.runtimeconfig.json
+C:\Users\opilane\source\repos\filesystem\filesystem\bin\Debug\netcoreapp3.1\filesystem.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\filesystem\filesystem\bin\Debug\netcoreapp3.1\filesystem.dll
+C:\Users\opilane\source\repos\filesystem\filesystem\bin\Debug\netcoreapp3.1\filesystem.pdb
+C:\Users\opilane\source\repos\filesystem\filesystem\obj\Debug\netcoreapp3.1\filesystem.dll
+C:\Users\opilane\source\repos\filesystem\filesystem\obj\Debug\netcoreapp3.1\filesystem.pdb
+C:\Users\opilane\source\repos\filesystem\filesystem\obj\Debug\netcoreapp3.1\filesystem.genruntimeconfig.cache
